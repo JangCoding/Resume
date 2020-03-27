@@ -52,7 +52,7 @@ If you spot a bug, or want to improve the code, or even make the dummy content b
 1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
 2. Fork the project, make changes, and submit a pull request
 
-## License
+## 자격증
 
 The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
 
