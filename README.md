@@ -2,7 +2,7 @@
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
-![img](images/avatar.png)
+![img](images/gugu.png)
 
 ## 경력
 -
