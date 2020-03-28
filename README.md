@@ -1,7 +1,5 @@
 # 
 
-*A simple Jekyll + GitHub Pages powered resume template.*
-
 ![img](images/dlab.png)
 
 ## 경력
